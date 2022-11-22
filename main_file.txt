@@ -1,0 +1,8 @@
+this is a main file we use
+git init
+git add
+git status
+git checkout
+git merge
+git push
+
