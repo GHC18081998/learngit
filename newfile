@@ -1,0 +1,7 @@
+this is new test file
+for git init
+git add
+git status
+git remote -v
+git push
+
